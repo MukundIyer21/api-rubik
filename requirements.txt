@@ -2,3 +2,5 @@ ultralytics
 numpy
 fastapi
 opencv-python
+uvicorn
+gunicorn
